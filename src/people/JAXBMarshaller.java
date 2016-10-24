@@ -26,7 +26,7 @@ public class JAXBMarshaller {
 		people.getData().add(john);
 	}	
 
-	// JAXBMarshaller marshals java person objects to xml persons in people.xml
+	// JAXBMarshaller marshals java person objects to xml persons in output.xml
 
 	public static void main(String[] args) throws Exception {
 		

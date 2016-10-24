@@ -70,7 +70,6 @@
 		</fileset>
 	</path>
 
-	<!-- PART 3: compilation and execution targets for this session -->
 	<target name="init" depends="install-ivy, resolve">
 		<echo message="Init has been called" />
 		<mkdir dir="${build.dir}" />

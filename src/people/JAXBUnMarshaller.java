@@ -14,7 +14,7 @@ import dao.PeopleStore;
 public class JAXBUnMarshaller {  	
 	public static PeopleStore people = new PeopleStore();
 
-    // JAXBUnMarshaller unmarshals persons from people.xml to java person objects.
+    // JAXBUnMarshaller unmarshals persons from output.xml to java person objects.
 
 	public static void main(String[] args) throws Exception {
 		JAXBContext jc = JAXBContext.newInstance(PeopleStore.class);
