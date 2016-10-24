@@ -1,0 +1,33 @@
+{
+  "person" : [ {
+    "firstname" : "Pinco",
+    "lastname" : "Pallino",
+    "birthdate" : "1989-1-1",
+    "healthprofile" : {
+      "weight" : 85.5,
+      "height" : 1.72,
+      "bmi" : 28.9007571660357
+    },
+    "id" : 2841
+  }, {
+    "firstname" : "Fulano",
+    "lastname" : "De Tal",
+    "birthdate" : "1984-06-21",
+    "healthprofile" : {
+      "weight" : 85.5,
+      "height" : 1.72,
+      "bmi" : 28.9007571660357
+    },
+    "id" : 1
+  }, {
+    "firstname" : "Jane",
+    "lastname" : "Doe",
+    "birthdate" : "1985-03-20",
+    "healthprofile" : {
+      "weight" : 68.0,
+      "height" : 1.72,
+      "bmi" : 22.985397512168742
+    },
+    "id" : 2
+  } ]
+}

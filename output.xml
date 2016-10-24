@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="9024">
+        <firstname>Pinco</firstname>
+        <lastname>Pallino</lastname>
+        <birthdate>1979-6-6</birthdate>
+        <healthprofile>
+            <weight>85.5</weight>
+            <height>1.72</height>
+            <bmi>28.9007571660357</bmi>
+        </healthprofile>
+    </person>
+    <person id="1">
+        <firstname>Fulano</firstname>
+        <lastname>De Tal</lastname>
+        <birthdate>1984-06-21</birthdate>
+        <healthprofile>
+            <weight>85.5</weight>
+            <height>1.72</height>
+            <bmi>28.9007571660357</bmi>
+        </healthprofile>
+    </person>
+    <person id="2">
+        <firstname>Jane</firstname>
+        <lastname>Doe</lastname>
+        <birthdate>1985-03-20</birthdate>
+        <healthprofile>
+            <weight>68.0</weight>
+            <height>1.72</height>
+            <bmi>22.985397512168742</bmi>
+        </healthprofile>
+    </person>
+</people>
